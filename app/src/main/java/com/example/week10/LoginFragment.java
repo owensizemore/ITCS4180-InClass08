@@ -19,7 +19,6 @@ import com.google.firebase.auth.FirebaseAuth;
 
 public class LoginFragment extends Fragment {
     private FirebaseAuth mAuth;
-    final private String TAG = "TAG";
 
     public LoginFragment() {
         // Required empty public constructor
