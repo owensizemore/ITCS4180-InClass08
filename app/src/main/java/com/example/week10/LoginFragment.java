@@ -21,6 +21,7 @@ public class LoginFragment extends Fragment {
     private FirebaseAuth mAuth;
     final private String TAG = "TAG";
 
+    //test
     public LoginFragment() {
         // Required empty public constructor
     }
